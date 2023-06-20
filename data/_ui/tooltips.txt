@@ -552,6 +552,9 @@ tip "solar collection:"
 tip "solar heat:"
 	`Produces a variable amount of heat depending on how far this ship is from the star at the center of the system.`
 
+tip "spinal mount:"
+	`This weapon requires a special gun port that's integrated directly into the spine of its host ship.`
+	
 tip "tactical scan power:"
 	`Tactical scanners allow you to view your current target's crew complement, fuel, heat, and energy levels when it is within range. The range is proportional to the square root of this value.`
 
